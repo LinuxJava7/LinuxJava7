@@ -1,1 +1,1 @@
-👋 Hi! I'm @LinuxJava7!
+Hey, I'm LinuxJava7. I'm currently studying A-Levels. I'm a hobbyist UX and UI designer, Linux desktop user since 2021, FOSS (Free and Open Source Software) enthusiast, and aspiring full-stack developer.
